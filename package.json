@@ -8,17 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shongsu/react-native-audio-toggle.git"
+    "url": "git+https://github.com/Aetonix/react-native-audio-toggle.git"
   },
   "keywords": [
     "React-Native",
     "Audio",
     "Toggle"
   ],
-  "author": "shongsu",
+  "author": "Aetonix",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shongsu/react-native-audio-toggle/issues"
+    "url": "https://github.com/Aetonix/react-native-audio-toggle/issues"
   },
-  "homepage": "https://github.com/shongsu/react-native-audio-toggle#readme"
+  "homepage": "https://github.com/Aetonix/react-native-audio-toggle#readme"
 }
